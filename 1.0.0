@@ -1,0 +1,3 @@
+zmiennaPierwsza = 2
+zmiennaDruga = 2
+print ("wynik dodawania to:", zmiennaPierwsza + zmiennaDruga)
