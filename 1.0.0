@@ -1,4 +1,4 @@
 firstVar = 3
 secondVar = 2
-print ("wynik dodawania to:", firstVar + secondVar)
+print ("additionResult:", firstVar + secondVar)
 
