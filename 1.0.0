@@ -1,0 +1,4 @@
+firstVar = 3
+secondVar = 2
+print ("additionResult:", firstVar + secondVar)
+
