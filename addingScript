@@ -2,3 +2,10 @@ firstVar = 3
 secondVar = 2
 print ("additionResult:", firstVar + secondVar)
 
+name = input ("Type your name: ")
+surname = input ("Type your surname: ")
+age = int(input("Type your age: "))
+year = int(input("Type the current year: "))
+
+print ("Hello, " + name + " " + surname)
+print ("The year of your birth is: ", year - age)
